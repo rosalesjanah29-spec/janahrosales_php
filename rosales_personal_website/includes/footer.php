@@ -1,0 +1,1 @@
+<footer>&copy; 2026 Janah Rosales DESIGN</footer>
